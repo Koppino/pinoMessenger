@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>738AF588-46B8-41EA-8739-71C4301271DB</string>
 		</dict>
+		<key>7C7A843B-6AE8-494C-991C-23EBD2F50118</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C7A843B-6AE8-494C-991C-23EBD2F50118.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run pinoMessenger</string>
+			<key>timeStartedRecording</key>
+			<real>621383370.24508297</real>
+			<key>timeStoppedRecording</key>
+			<real>621383794.27374899</real>
+			<key>title</key>
+			<string>Run pinoMessenger</string>
+			<key>uniqueIdentifier</key>
+			<string>7C7A843B-6AE8-494C-991C-23EBD2F50118</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
