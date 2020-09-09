@@ -5,6 +5,483 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1C2AFDF8-1B4B-4D70-9005-5E57FBF4071C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C2AFDF8-1B4B-4D70-9005-5E57FBF4071C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621381294.63822401</real>
+			<key>timeStoppedRecording</key>
+			<real>621381302.77671695</real>
+			<key>title</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>1C2AFDF8-1B4B-4D70-9005-5E57FBF4071C</string>
+		</dict>
+		<key>20B4F06F-A690-4340-8EDB-5D3FBA532D07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20B4F06F-A690-4340-8EDB-5D3FBA532D07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621380553.31712198</real>
+			<key>timeStoppedRecording</key>
+			<real>621380556.58586895</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>20B4F06F-A690-4340-8EDB-5D3FBA532D07</string>
+		</dict>
+		<key>2610D94D-8206-4BD4-9E7B-1089B3C3298A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2610D94D-8206-4BD4-9E7B-1089B3C3298A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621378548.06379294</real>
+			<key>timeStoppedRecording</key>
+			<real>621378578.13279104</real>
+			<key>title</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>2610D94D-8206-4BD4-9E7B-1089B3C3298A</string>
+		</dict>
+		<key>4FD39B4D-C9F7-4B52-B715-A996EC882B18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FD39B4D-C9F7-4B52-B715-A996EC882B18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621379846.86543798</real>
+			<key>timeStoppedRecording</key>
+			<real>621379850.40092897</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>4FD39B4D-C9F7-4B52-B715-A996EC882B18</string>
+		</dict>
+		<key>5364EF83-3D1B-4FBF-B7FC-B60C60FDEB4E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5364EF83-3D1B-4FBF-B7FC-B60C60FDEB4E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621380123.83056498</real>
+			<key>timeStoppedRecording</key>
+			<real>621380127.62411797</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>5364EF83-3D1B-4FBF-B7FC-B60C60FDEB4E</string>
+		</dict>
+		<key>68496003-FB3A-48DA-8DAE-7015B71996CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68496003-FB3A-48DA-8DAE-7015B71996CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621380269.20288599</real>
+			<key>timeStoppedRecording</key>
+			<real>621380270.36241102</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>68496003-FB3A-48DA-8DAE-7015B71996CE</string>
+		</dict>
+		<key>68FB82FC-0A73-4526-B1A1-885608BBD13E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68FB82FC-0A73-4526-B1A1-885608BBD13E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621380337.89850402</real>
+			<key>timeStoppedRecording</key>
+			<real>621380340.44202304</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>68FB82FC-0A73-4526-B1A1-885608BBD13E</string>
+		</dict>
+		<key>6A63E87B-3F6E-48DD-99D0-209AAC611D7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A63E87B-3F6E-48DD-99D0-209AAC611D7D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621380303.40177298</real>
+			<key>timeStoppedRecording</key>
+			<real>621380305.490412</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>6A63E87B-3F6E-48DD-99D0-209AAC611D7D</string>
+		</dict>
+		<key>76D81186-A2A7-4141-96A7-CB4335569645</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76D81186-A2A7-4141-96A7-CB4335569645.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621379660.80174398</real>
+			<key>timeStoppedRecording</key>
+			<real>621379678.69945598</real>
+			<key>title</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>76D81186-A2A7-4141-96A7-CB4335569645</string>
+		</dict>
+		<key>7B964AB0-7284-4C10-B68E-135A1B1FA1A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B964AB0-7284-4C10-B68E-135A1B1FA1A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621379686.62471104</real>
+			<key>timeStoppedRecording</key>
+			<real>621379701.17202902</real>
+			<key>title</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>7B964AB0-7284-4C10-B68E-135A1B1FA1A5</string>
+		</dict>
+		<key>C045C61E-27D2-4C6F-9565-D807D4D4805F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C045C61E-27D2-4C6F-9565-D807D4D4805F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621380582.00546205</real>
+			<key>timeStoppedRecording</key>
+			<real>621380583.71757305</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>C045C61E-27D2-4C6F-9565-D807D4D4805F</string>
+		</dict>
+		<key>DA68AD37-A438-4FC6-823D-934AD28ACFC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA68AD37-A438-4FC6-823D-934AD28ACFC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (macOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews pinoMessenger (macOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621378510.906986</real>
+			<key>timeStoppedRecording</key>
+			<real>621378514.94907105</real>
+			<key>title</key>
+			<string>Build for Previews pinoMessenger (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>DA68AD37-A438-4FC6-823D-934AD28ACFC0</string>
+		</dict>
+		<key>E6CFB256-9F85-45FB-BAF4-B080BE21C761</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6CFB256-9F85-45FB-BAF4-B080BE21C761.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621378581.88606799</real>
+			<key>timeStoppedRecording</key>
+			<real>621378590.53402805</real>
+			<key>title</key>
+			<string>Build for Previews pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>E6CFB256-9F85-45FB-BAF4-B080BE21C761</string>
+		</dict>
+		<key>FC6BD2F5-B3AC-40F3-8AFF-69BB55D455E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC6BD2F5-B3AC-40F3-8AFF-69BB55D455E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>pinoMessenger project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>pinoMessenger (iOS)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>timeStartedRecording</key>
+			<real>621378536.76375306</real>
+			<key>timeStoppedRecording</key>
+			<real>621378538.57931805</real>
+			<key>title</key>
+			<string>Build pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>FC6BD2F5-B3AC-40F3-8AFF-69BB55D455E1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

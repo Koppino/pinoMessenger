@@ -6,16 +6,29 @@
 //
 
 import SwiftUI
+import UIKit
 
 struct ContentView: View {
+	@State private var image: Image?
+	@State private var showingView = true
     var body: some View {
-        Text("Hello, world!")
-            .padding()
-    }
+		VStack {
+			image?
+				.resizable()
+				.scaledToFit()
+			Button("kokot"){
+				self.showingView = true
+			}
+			.fullScreenCover(isPresented: $showingView) {
+				RootViewcontroller().edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+			}
+		}
+	}
 }
+	
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+		ContentView()
     }
 }

@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F38BFDC25097CE700C6AB43 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F38BFDB25097CE700C6AB43 /* RootViewController.swift */; };
+		5F38BFDD25097CE700C6AB43 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F38BFDB25097CE700C6AB43 /* RootViewController.swift */; };
+		5F38BFDF250980DF00C6AB43 /* RootController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F38BFDE250980DF00C6AB43 /* RootController.swift */; };
+		5F38BFE0250980DF00C6AB43 /* RootController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F38BFDE250980DF00C6AB43 /* RootController.swift */; };
 		5F78959A25097B1D00116578 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F78959925097B1D00116578 /* Tests_iOS.swift */; };
 		5F7895A525097B1D00116578 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7895A425097B1D00116578 /* Tests_macOS.swift */; };
 		5F7895A725097B1D00116578 /* pinoMessengerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F78957E25097B1C00116578 /* pinoMessengerApp.swift */; };
@@ -35,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5F38BFDB25097CE700C6AB43 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
+		5F38BFDE250980DF00C6AB43 /* RootController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootController.swift; sourceTree = "<group>"; };
 		5F78957E25097B1C00116578 /* pinoMessengerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pinoMessengerApp.swift; sourceTree = "<group>"; };
 		5F78957F25097B1C00116578 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5F78958025097B1D00116578 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,6 +106,8 @@
 			children = (
 				5F78957E25097B1C00116578 /* pinoMessengerApp.swift */,
 				5F78957F25097B1C00116578 /* ContentView.swift */,
+				5F38BFDB25097CE700C6AB43 /* RootViewController.swift */,
+				5F38BFDE250980DF00C6AB43 /* RootController.swift */,
 				5F78958025097B1D00116578 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -310,6 +318,8 @@
 			files = (
 				5F7895A925097B1D00116578 /* ContentView.swift in Sources */,
 				5F7895A725097B1D00116578 /* pinoMessengerApp.swift in Sources */,
+				5F38BFDC25097CE700C6AB43 /* RootViewController.swift in Sources */,
+				5F38BFDF250980DF00C6AB43 /* RootController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,6 +329,8 @@
 			files = (
 				5F7895AA25097B1D00116578 /* ContentView.swift in Sources */,
 				5F7895A825097B1D00116578 /* pinoMessengerApp.swift in Sources */,
+				5F38BFDD25097CE700C6AB43 /* RootViewController.swift in Sources */,
+				5F38BFE0250980DF00C6AB43 /* RootController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

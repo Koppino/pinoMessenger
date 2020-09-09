@@ -5,7 +5,64 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>246941C2-468B-452E-AE5C-212732D53BB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>246941C2-468B-452E-AE5C-212732D53BB4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>pinoMessenger_(iOS)-betuvpvbeebewmdhswiawczidvdu</string>
+			<key>timeStartedRecording</key>
+			<real>621381297.09735703</real>
+			<key>timeStoppedRecording</key>
+			<real>621381302.74602306</real>
+			<key>title</key>
+			<string>Build target pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>246941C2-468B-452E-AE5C-212732D53BB4</string>
+		</dict>
+		<key>C2EF7791-8C97-44DF-899C-E8BED235753B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>C2EF7791-8C97-44DF-899C-E8BED235753B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>pinoMessenger_(macOS)-betuvpvbeebewmdhswiawczidvdu</string>
+			<key>timeStartedRecording</key>
+			<real>621378511.09162295</real>
+			<key>timeStoppedRecording</key>
+			<real>621378514.92954004</real>
+			<key>title</key>
+			<string>Build target pinoMessenger (macOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>C2EF7791-8C97-44DF-899C-E8BED235753B</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
