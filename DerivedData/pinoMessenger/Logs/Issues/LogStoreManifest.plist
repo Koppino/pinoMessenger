@@ -6,34 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>246941C2-468B-452E-AE5C-212732D53BB4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogMajorGroupSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
-			<key>fileName</key>
-			<string>246941C2-468B-452E-AE5C-212732D53BB4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>pinoMessenger_(iOS)-betuvpvbeebewmdhswiawczidvdu</string>
-			<key>timeStartedRecording</key>
-			<real>621381297.09735703</real>
-			<key>timeStoppedRecording</key>
-			<real>621381302.74602306</real>
-			<key>title</key>
-			<string>Build target pinoMessenger (iOS)</string>
-			<key>uniqueIdentifier</key>
-			<string>246941C2-468B-452E-AE5C-212732D53BB4</string>
-		</dict>
 		<key>C2EF7791-8C97-44DF-899C-E8BED235753B</key>
 		<dict>
 			<key>className</key>
@@ -61,6 +33,34 @@
 			<string>Build target pinoMessenger (macOS)</string>
 			<key>uniqueIdentifier</key>
 			<string>C2EF7791-8C97-44DF-899C-E8BED235753B</string>
+		</dict>
+		<key>DF77D245-C563-4010-895E-BF9E22C4F311</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>DF77D245-C563-4010-895E-BF9E22C4F311.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>pinoMessenger_(iOS)-betuvpvbeebewmdhswiawczidvdu</string>
+			<key>timeStartedRecording</key>
+			<real>621382484.11363494</real>
+			<key>timeStoppedRecording</key>
+			<real>621382487.90944505</real>
+			<key>title</key>
+			<string>Build target pinoMessenger (iOS)</string>
+			<key>uniqueIdentifier</key>
+			<string>DF77D245-C563-4010-895E-BF9E22C4F311</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
