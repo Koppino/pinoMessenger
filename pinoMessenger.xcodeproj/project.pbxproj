@@ -21,6 +21,7 @@
 		5F7895AB25097B1D00116578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F78958025097B1D00116578 /* Assets.xcassets */; };
 		5F7895AC25097B1D00116578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F78958025097B1D00116578 /* Assets.xcassets */; };
 		5F86EBA92509906E00F6C564 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE342DA25098D9500AE818A /* AppDelegate.swift */; };
+		5F8ADD3525099C5B006184EF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5F8ADD3425099C5B006184EF /* GoogleService-Info.plist */; };
 		5FE342D825098D6300AE818A /* Hero in Frameworks */ = {isa = PBXBuildFile; productRef = 5FE342D725098D6300AE818A /* Hero */; };
 		EEEFB21056BB6F33ED42E233 /* Pods_pinoMessenger__macOS_.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A6E8F57B08D210094F56DCFD /* Pods_pinoMessenger__macOS_.framework */; };
 /* End PBXBuildFile section */
@@ -60,8 +61,8 @@
 		5F7895A025097B1D00116578 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7895A425097B1D00116578 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		5F7895A625097B1D00116578 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F8ADD3425099C5B006184EF /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; name = "GoogleService-Info.plist"; path = "Shared/GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
 		5FE342D225098CA800AE818A /* Hero.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Hero.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5FE342D925098D7D00AE818A /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5FE342DA25098D9500AE818A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A6E8F57B08D210094F56DCFD /* Pods_pinoMessenger__macOS_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_pinoMessenger__macOS_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB62D923681E764EFE14D8A7 /* Pods-pinoMessenger (iOS).release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pinoMessenger (iOS).release.xcconfig"; path = "Target Support Files/Pods-pinoMessenger (iOS)/Pods-pinoMessenger (iOS).release.xcconfig"; sourceTree = "<group>"; };
@@ -145,7 +146,7 @@
 		5F78958725097B1D00116578 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				5FE342D925098D7D00AE818A /* GoogleService-Info.plist */,
+				5F8ADD3425099C5B006184EF /* GoogleService-Info.plist */,
 				5F78958825097B1D00116578 /* Info.plist */,
 				5FE342DA25098D9500AE818A /* AppDelegate.swift */,
 			);
@@ -334,6 +335,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F7895AB25097B1D00116578 /* Assets.xcassets in Resources */,
+				5F8ADD3525099C5B006184EF /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

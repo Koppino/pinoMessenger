@@ -9,7 +9,7 @@ import SwiftUI
 import Combine
 import Firebase
 
-//@main
+@main
 struct pinoMessengerApp: App {
     var body: some Scene {
         WindowGroup {

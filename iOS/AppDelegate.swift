@@ -7,8 +7,9 @@
 
 import UIKit
 import Firebase
+import SwiftUI
 
-@UIApplicationMain
+//@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
   var window: UIWindow?
@@ -17,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 	didFinishLaunchingWithOptions launchOptions:
 		[UIApplication.LaunchOptionsKey: Any]?) -> Bool {
 	FirebaseApp.configure()
-	pinoMessengerApp.main()
+
 	return true
   }
 }

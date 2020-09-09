@@ -20,7 +20,7 @@ struct ContentView: View {
 				self.showingView = true
 			}
 			.fullScreenCover(isPresented: $showingView) {
-				RootViewcontroller().edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
+				RootViewController().edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
 			}
 		}
 	}

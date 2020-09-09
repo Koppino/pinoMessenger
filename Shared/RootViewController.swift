@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct RootViewcontroller: UIViewControllerRepresentable {
-	func updateUIViewController(_ uiViewController: UIViewController, context: UIViewControllerRepresentableContext<RootViewcontroller>) {
+struct RootViewController: UIViewControllerRepresentable {
+	func updateUIViewController(_ uiViewController: UITabBarController, context: UIViewControllerRepresentableContext<RootViewController>) {
 		
 	}
 	
-	func makeUIViewController(context: UIViewControllerRepresentableContext<RootViewcontroller>) -> UIViewController {
+	func makeUIViewController(context: UIViewControllerRepresentableContext<RootViewController>) -> UITabBarController {
 		let vc = RootController()
 		return vc
 	}
